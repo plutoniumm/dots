@@ -1,5 +1,6 @@
 .gitignore
 local/
 scripts/
+.DS_Store
 readme.md
 .git
